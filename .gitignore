@@ -1,0 +1,4 @@
+/node_modules
+/vendor
+/client/python/venv
+/client/python/__pycache
